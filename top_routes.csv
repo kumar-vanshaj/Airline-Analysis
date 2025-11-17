@@ -1,0 +1,11 @@
+route,num_flights
+Mumbai → Delhi,2829
+Delhi → Mumbai,2659
+Bengaluru → Delhi,1964
+Delhi → Bengaluru,1955
+Mumbai → Bengaluru,1761
+Delhi → Kolkata,1556
+Kolkata → Delhi,1527
+Bengaluru → Mumbai,1527
+Hyderabad → Delhi,1434
+Hyderabad → Bengaluru,1364
